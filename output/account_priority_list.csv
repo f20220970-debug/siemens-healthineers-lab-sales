@@ -1,0 +1,601 @@
+account_id,territory,type,tests_per_day,immunoassay_share,current_vendor,analyser_age_yrs,has_relationship,budget_month,value_lakh,fit_score,priority_score,tier
+A0412,Delhi NCR,hospital,4252,0.47,Abbott,8,False,3,523.0,42.2,220.7,A
+A0345,Delhi NCR,hospital,1978,0.51,local / refurbished,9,True,8,275.4,76.1,209.6,A
+A0036,Delhi NCR,hospital,2773,0.28,Abbott,11,False,11,362.0,43.2,156.4,A
+A0336,Bengaluru,hospital,2325,0.45,Roche,10,False,1,313.2,48.0,150.3,A
+A0424,Delhi NCR,hospital,1475,0.64,local / refurbished,9,False,3,220.6,66.3,146.3,A
+A0238,Bengaluru,hospital,1321,0.63,local / refurbished,11,False,5,203.9,70.2,143.1,A
+A0359,Delhi NCR,hospital,3151,0.16,local / refurbished,6,False,8,403.1,34.3,138.3,A
+A0377,Bengaluru,hospital,1816,0.54,Abbott,11,False,11,257.8,53.6,138.2,A
+A0225,Delhi NCR,hospital,1221,0.63,Abbott,9,True,1,193.0,67.9,131.0,A
+A0501,Delhi NCR,hospital,1425,0.69,Abbott,10,False,9,215.2,59.6,128.3,A
+A0482,Bengaluru,lab chain branch,1474,0.36,Abbott,9,True,11,220.5,57.1,125.9,A
+A0308,Delhi NCR,hospital,1643,0.36,Roche,8,True,1,238.9,50.8,121.4,A
+A0146,Bengaluru,hospital,1197,0.68,Beckman,10,False,4,190.4,62.2,118.4,A
+A0402,Delhi NCR,hospital,1117,0.48,local / refurbished,10,False,12,181.6,64.2,116.6,A
+A0420,Bengaluru,hospital,1151,0.23,Siemens (existing),9,True,6,185.3,61.9,114.7,A
+A0067,Bengaluru,hospital,940,0.59,local / refurbished,10,False,1,162.4,68.6,111.4,A
+A0278,Delhi NCR,diagnostic centre,1042,0.64,local / refurbished,5,True,2,173.5,64.2,111.4,A
+A0157,Bengaluru,hospital,1147,0.36,Roche,10,True,11,184.9,59.4,109.8,A
+A0470,Delhi NCR,hospital,1422,0.25,local / refurbished,9,False,12,214.9,50.7,109.0,A
+A0293,Bengaluru,hospital,1110,0.35,local / refurbished,10,False,11,180.9,59.0,106.7,A
+A0300,Delhi NCR,lab chain branch,1205,0.36,Beckman,8,True,6,191.2,55.8,106.7,A
+A0030,Delhi NCR,hospital,1075,0.68,Abbott,11,False,9,177.1,59.2,104.8,A
+A0076,Delhi NCR,hospital,1837,0.63,Abbott,6,False,1,260.0,40.1,104.3,A
+A0269,Delhi NCR,lab chain branch,1112,0.64,Abbott,11,False,7,181.1,57.6,104.3,A
+A0388,Delhi NCR,lab chain branch,1167,0.51,Beckman,11,False,11,187.1,55.4,103.7,A
+A0051,Delhi NCR,hospital,1592,0.36,Roche,11,False,11,233.4,44.4,103.6,A
+A0130,Delhi NCR,hospital,994,0.41,Roche,11,True,4,168.2,61.4,103.3,A
+A0528,Delhi NCR,hospital,775,0.5,local / refurbished,8,True,12,144.4,71.4,103.1,A
+A0000,Delhi NCR,hospital,1001,0.77,local / refurbished,2,True,2,169.0,60.8,102.8,A
+A0050,Delhi NCR,lab chain branch,995,0.43,local / refurbished,6,True,2,168.4,60.1,101.2,A
+A0320,Bengaluru,hospital,1722,0.38,Abbott,5,True,3,247.5,40.8,101.0,A
+A0447,Bengaluru,hospital,923,0.5,Siemens (existing),10,False,3,160.5,62.0,99.5,A
+A0561,Delhi NCR,lab chain branch,1049,0.39,local / refurbished,9,False,12,174.2,56.3,98.1,A
+A0019,Bengaluru,hospital,633,0.74,Beckman,9,True,11,128.9,75.3,97.1,A
+A0416,Delhi NCR,hospital,1215,0.38,Beckman,10,False,4,192.3,50.2,96.5,A
+A0403,Delhi NCR,hospital,1306,0.57,Siemens (existing),6,False,6,202.2,47.7,96.4,A
+A0516,Bengaluru,lab chain branch,857,0.64,local / refurbished,8,False,9,153.3,62.0,95.0,A
+A0563,Bengaluru,hospital,1640,0.62,Abbott,6,False,1,238.6,39.7,94.7,A
+A0099,Bengaluru,hospital,1531,0.54,Beckman,3,True,10,226.7,41.6,94.3,A
+A0374,Delhi NCR,hospital,704,0.6,Roche,11,True,2,136.7,69.0,94.3,A
+A0337,Delhi NCR,hospital,1216,0.39,Siemens (existing),8,False,12,192.4,49.0,94.3,A
+A0502,Bengaluru,hospital,759,0.8,Abbott,7,True,1,142.7,66.1,94.3,A
+A0086,Delhi NCR,hospital,1793,0.23,Abbott,9,False,7,255.3,36.9,94.2,A
+A0065,Delhi NCR,hospital,751,0.53,Roche,11,True,9,141.8,66.2,93.9,A
+A0548,Bengaluru,hospital,981,0.49,Roche,8,True,10,166.8,56.0,93.4,A
+A0436,Delhi NCR,hospital,930,0.63,Abbott,11,False,9,161.3,57.2,92.3,A
+A0235,Delhi NCR,lab chain branch,1229,0.39,Abbott,11,False,2,193.8,47.6,92.2,A
+A0023,Delhi NCR,hospital,1112,0.57,local / refurbished,6,False,3,181.1,50.7,91.8,A
+A0162,Bengaluru,hospital,1182,0.41,local / refurbished,7,False,4,188.7,48.5,91.5,A
+A0513,Bengaluru,hospital,935,0.6,local / refurbished,7,False,2,161.8,56.1,90.8,A
+A0414,Delhi NCR,lab chain branch,707,0.53,local / refurbished,11,False,6,137.0,66.2,90.7,A
+A0209,Delhi NCR,standalone lab,651,0.55,Abbott,10,True,3,130.9,69.0,90.3,A
+A0405,Delhi NCR,hospital,1232,0.4,Abbott,6,True,4,194.2,45.9,89.1,A
+A0457,Bengaluru,hospital,1386,0.14,local / refurbished,8,False,4,210.9,42.0,88.6,A
+A0534,Bengaluru,hospital,1531,0.09,Beckman,11,False,1,226.7,38.6,87.5,A
+A0092,Bengaluru,lab chain branch,944,0.21,local / refurbished,10,False,7,162.8,53.4,86.9,A
+A0160,Delhi NCR,hospital,699,0.57,local / refurbished,9,False,11,136.1,63.5,86.4,A
+A0381,Bengaluru,hospital,1564,0.19,Abbott,6,True,2,230.3,37.5,86.4,A
+A0506,Delhi NCR,hospital,913,0.22,local / refurbished,11,False,8,159.4,53.8,85.8,A
+A0536,Delhi NCR,hospital,1060,0.47,local / refurbished,3,True,6,175.4,48.8,85.6,A
+A0443,Delhi NCR,lab chain branch,1667,0.35,Roche,8,False,2,241.5,35.4,85.5,A
+A0304,Delhi NCR,hospital,747,0.47,Beckman,8,True,9,141.3,60.2,85.1,A
+A0311,Bengaluru,lab chain branch,1462,0.16,local / refurbished,7,False,1,219.2,38.5,84.4,A
+A0075,Bengaluru,hospital,650,0.54,local / refurbished,6,True,3,130.8,64.5,84.4,A
+A0415,Delhi NCR,lab chain branch,1019,0.41,Roche,7,True,9,171.0,48.5,82.9,A
+A0373,Bengaluru,hospital,656,0.52,Siemens (existing),11,False,5,131.4,62.8,82.5,A
+A0077,Bengaluru,hospital,1282,0.28,Roche,10,False,8,199.6,41.2,82.2,A
+A0010,Bengaluru,hospital,1120,0.52,Beckman,4,True,3,182.0,45.1,82.1,A
+A0229,Delhi NCR,lab chain branch,574,0.48,Abbott,11,True,3,122.5,66.2,81.1,A
+A0095,Delhi NCR,lab chain branch,533,0.59,Roche,11,True,7,118.0,68.6,80.9,A
+A0062,Delhi NCR,standalone lab,598,0.49,Roche,11,True,11,125.1,64.6,80.8,A
+A0503,Delhi NCR,hospital,1323,0.29,local / refurbished,6,False,5,204.1,39.5,80.6,A
+A0287,Bengaluru,lab chain branch,676,0.81,Roche,6,True,11,133.6,60.3,80.6,A
+A0508,Delhi NCR,hospital,1464,0.16,Roche,10,False,2,219.4,36.4,79.9,A
+A0335,Bengaluru,hospital,1001,0.38,Abbott,10,False,1,169.0,47.2,79.8,A
+A0194,Delhi NCR,lab chain branch,495,0.62,Roche,10,True,11,113.9,69.8,79.5,A
+A0445,Bengaluru,diagnostic centre,986,0.38,local / refurbished,7,False,3,167.4,47.3,79.2,A
+A0431,Delhi NCR,hospital,861,0.22,Abbott,9,True,7,153.8,51.5,79.2,A
+A0453,Bengaluru,lab chain branch,1803,0.5,Abbott,5,False,4,256.3,30.6,78.4,A
+A0181,Bengaluru,hospital,763,0.24,local / refurbished,10,False,7,143.1,54.6,78.1,A
+A0537,Delhi NCR,standalone lab,451,0.61,Abbott,10,True,2,109.1,71.4,77.9,A
+A0039,Delhi NCR,hospital,728,0.64,Roche,11,False,5,139.3,55.6,77.5,A
+A0105,Bengaluru,lab chain branch,870,0.46,Siemens (existing),4,True,8,154.7,49.7,76.9,A
+A0375,Bengaluru,standalone lab,814,0.54,Roche,10,False,11,148.6,51.6,76.7,A
+A0201,Delhi NCR,lab chain branch,536,0.12,local / refurbished,10,True,4,118.4,64.8,76.7,A
+A0495,Delhi NCR,hospital,731,0.55,Beckman,6,True,9,139.6,54.9,76.6,A
+A0018,Delhi NCR,lab chain branch,1353,0.17,local / refurbished,2,True,3,207.3,36.8,76.3,A
+A0527,Delhi NCR,hospital,960,0.41,local / refurbished,1,True,11,164.5,46.4,76.3,A
+A0284,Delhi NCR,hospital,999,0.38,Roche,10,False,6,168.8,45.2,76.3,A
+A0152,Delhi NCR,hospital,1222,0.39,Roche,5,True,8,193.1,39.2,75.7,A
+A0421,Bengaluru,lab chain branch,1108,0.56,local / refurbished,4,False,4,180.7,41.7,75.4,B
+A0509,Delhi NCR,hospital,571,0.29,Beckman,10,True,6,122.2,61.6,75.3,B
+A0352,Bengaluru,hospital,723,0.23,local / refurbished,11,False,9,138.7,54.2,75.2,B
+A0206,Delhi NCR,lab chain branch,921,0.21,Abbott,8,True,8,160.3,46.8,75.0,B
+A0078,Bengaluru,hospital,1446,0.52,Beckman,5,False,4,217.5,34.4,74.8,B
+A0091,Delhi NCR,hospital,1156,0.47,Roche,8,False,10,185.9,40.2,74.7,B
+A0474,Bengaluru,diagnostic centre,585,0.19,Siemens (existing),9,True,5,123.7,60.3,74.6,B
+A0191,Bengaluru,lab chain branch,380,0.59,Beckman,11,True,4,101.4,73.6,74.6,B
+A0006,Bengaluru,lab chain branch,785,0.48,Abbott,10,False,6,145.5,51.2,74.5,B
+A0441,Delhi NCR,hospital,795,0.39,Beckman,10,False,3,146.6,50.6,74.2,B
+A0228,Delhi NCR,lab chain branch,658,0.23,Abbott,10,True,6,131.7,56.2,74.0,B
+A0587,Delhi NCR,hospital,837,0.41,local / refurbished,7,False,5,151.1,48.5,73.3,B
+A0439,Bengaluru,hospital,1396,0.31,Beckman,7,False,2,212.0,34.5,73.1,B
+A0594,Bengaluru,hospital,1286,0.16,Roche,11,False,1,200.0,36.4,72.8,B
+A0246,Bengaluru,lab chain branch,784,0.45,local / refurbished,7,False,9,145.4,50.1,72.8,B
+A0507,Bengaluru,hospital,603,0.32,local / refurbished,11,False,10,125.7,57.8,72.7,B
+A0589,Delhi NCR,hospital,725,0.7,Beckman,4,True,12,139.0,52.3,72.7,B
+A0262,Bengaluru,hospital,544,0.49,local / refurbished,9,False,2,119.2,60.3,71.9,B
+A0117,Bengaluru,diagnostic centre,1050,0.49,Roche,8,False,7,174.3,41.0,71.5,B
+A0498,Bengaluru,lab chain branch,542,0.59,local / refurbished,8,False,5,119.0,60.0,71.4,B
+A0427,Bengaluru,hospital,699,0.13,Abbott,10,True,11,136.1,52.2,71.0,B
+A0056,Bengaluru,lab chain branch,331,0.34,local / refurbished,10,True,1,96.0,73.6,70.7,B
+A0044,Bengaluru,lab chain branch,904,0.36,local / refurbished,2,True,3,158.4,44.4,70.3,B
+A0522,Bengaluru,hospital,918,0.4,Roche,6,True,3,160.0,43.9,70.2,B
+A0132,Delhi NCR,lab chain branch,811,0.27,Roche,8,True,12,148.3,47.2,70.0,B
+A0348,Delhi NCR,hospital,400,0.62,Abbott,9,True,5,103.6,67.5,69.9,B
+A0112,Bengaluru,hospital,846,0.44,local / refurbished,6,False,7,152.1,45.5,69.2,B
+A0098,Delhi NCR,lab chain branch,597,0.26,Roche,11,True,12,125.0,55.4,69.2,B
+A0573,Bengaluru,lab chain branch,825,0.53,Siemens (existing),6,False,6,149.8,46.1,69.1,B
+A0597,Bengaluru,lab chain branch,845,0.76,Roche,3,True,7,152.0,45.4,69.0,B
+A0339,Delhi NCR,lab chain branch,1104,0.42,Abbott,4,True,2,180.2,38.1,68.7,B
+A0182,Delhi NCR,lab chain branch,678,0.32,Abbott,8,True,7,133.8,51.2,68.5,B
+A0101,Delhi NCR,lab chain branch,795,0.47,local / refurbished,6,False,12,146.6,46.7,68.5,B
+A0040,Bengaluru,standalone lab,501,0.36,Roche,10,True,11,114.6,59.4,68.1,B
+A0429,Bengaluru,lab chain branch,422,0.48,local / refurbished,11,False,9,106.0,64.2,68.1,B
+A0483,Delhi NCR,hospital,652,0.6,Roche,6,True,2,131.0,51.9,68.0,B
+A0221,Bengaluru,hospital,600,0.59,Beckman,9,False,10,125.3,54.3,68.0,B
+A0399,Bengaluru,hospital,681,0.09,Abbott,11,True,7,134.2,50.6,67.9,B
+A0588,Delhi NCR,hospital,1425,0.06,Siemens (existing),7,False,3,215.2,31.5,67.8,B
+A0271,Bengaluru,standalone lab,335,0.63,Roche,11,True,11,96.5,70.2,67.7,B
+A0275,Delhi NCR,lab chain branch,645,0.17,local / refurbished,11,False,8,130.2,51.8,67.4,B
+A0371,Delhi NCR,hospital,1118,0.55,local / refurbished,1,False,6,181.8,37.0,67.3,B
+A0274,Delhi NCR,lab chain branch,306,0.7,Siemens (existing),7,True,5,93.3,72.1,67.3,B
+A0355,Bengaluru,lab chain branch,871,0.28,Roche,7,True,10,154.9,43.3,67.1,B
+A0357,Delhi NCR,lab chain branch,253,0.7,Siemens (existing),8,True,9,87.6,76.4,66.9,B
+A0053,Delhi NCR,hospital,1562,0.6,Beckman,2,False,1,230.1,29.0,66.7,B
+A0163,Delhi NCR,standalone lab,426,0.39,Abbott,10,True,12,106.4,62.6,66.6,B
+A0097,Delhi NCR,hospital,810,0.67,Beckman,6,False,6,148.2,44.7,66.2,B
+A0283,Bengaluru,hospital,1591,0.33,local / refurbished,1,False,2,233.3,28.2,65.8,B
+A0471,Delhi NCR,hospital,428,0.41,local / refurbished,10,False,3,106.6,61.4,65.5,B
+A0493,Bengaluru,hospital,505,0.35,local / refurbished,6,True,7,115.0,56.9,65.4,B
+A0313,Bengaluru,diagnostic centre,823,0.77,Roche,6,False,10,149.6,43.7,65.4,B
+A0296,Bengaluru,lab chain branch,1240,0.11,Siemens (existing),7,False,7,195.0,33.5,65.3,B
+A0267,Delhi NCR,hospital,1177,0.44,Abbott,1,True,12,188.2,34.6,65.1,B
+A0070,Delhi NCR,lab chain branch,434,0.39,local / refurbished,10,False,2,107.3,60.6,65.0,B
+A0343,Delhi NCR,hospital,525,0.33,Siemens (existing),11,False,11,117.2,55.2,64.7,B
+A0452,Bengaluru,lab chain branch,1582,0.11,Abbott,8,False,9,232.3,27.8,64.6,B
+A0417,Bengaluru,lab chain branch,602,0.32,local / refurbished,5,True,5,125.6,51.4,64.6,B
+A0178,Bengaluru,lab chain branch,417,0.35,local / refurbished,7,True,8,105.4,61.1,64.4,B
+A0154,Bengaluru,lab chain branch,381,0.46,local / refurbished,11,False,8,101.5,63.4,64.4,B
+A0299,Delhi NCR,standalone lab,517,0.13,Beckman,11,True,2,116.3,55.2,64.2,B
+A0008,Bengaluru,standalone lab,528,0.24,Roche,11,True,11,117.5,54.6,64.2,B
+A0020,Delhi NCR,hospital,497,0.6,Abbott,11,False,1,114.1,56.0,63.9,B
+A0129,Delhi NCR,lab chain branch,736,0.34,Abbott,10,False,9,140.2,45.6,63.9,B
+A0425,Delhi NCR,hospital,998,0.52,Abbott,3,True,11,168.7,37.8,63.8,B
+A0012,Delhi NCR,lab chain branch,314,0.44,Beckman,11,True,2,94.2,67.6,63.7,B
+A0409,Delhi NCR,hospital,765,0.52,Roche,5,True,11,143.3,44.4,63.6,B
+A0074,Bengaluru,hospital,682,0.3,Beckman,11,False,12,134.3,47.0,63.1,B
+A0456,Delhi NCR,lab chain branch,682,0.42,Roche,10,False,2,134.3,46.8,62.9,B
+A0085,Delhi NCR,standalone lab,638,0.3,Roche,8,True,3,129.5,48.4,62.7,B
+A0389,Delhi NCR,lab chain branch,1223,0.51,Siemens (existing),1,False,8,193.2,32.4,62.6,B
+A0173,Bengaluru,hospital,790,0.39,Siemens (existing),3,True,6,146.0,42.6,62.2,B
+A0288,Bengaluru,hospital,1408,0.3,Abbott,1,True,11,213.3,29.0,61.9,B
+A0400,Delhi NCR,hospital,562,0.55,Siemens (existing),7,False,10,121.2,51.1,61.9,B
+A0438,Bengaluru,standalone lab,725,0.2,Roche,8,True,5,139.0,44.4,61.7,B
+A0245,Delhi NCR,lab chain branch,661,0.36,Roche,7,True,9,132.0,46.5,61.4,B
+A0579,Bengaluru,standalone lab,556,0.47,Roche,7,True,2,120.5,50.9,61.3,B
+A0148,Delhi NCR,hospital,505,0.28,Siemens (existing),10,False,6,115.0,53.2,61.2,B
+A0280,Bengaluru,hospital,463,0.26,Roche,11,True,10,110.4,55.4,61.2,B
+A0545,Delhi NCR,hospital,586,0.32,local / refurbished,8,False,12,123.8,49.2,60.9,B
+A0190,Delhi NCR,lab chain branch,466,0.2,Abbott,11,True,12,110.7,55.0,60.9,B
+A0196,Bengaluru,lab chain branch,418,0.7,Siemens (existing),7,False,3,105.5,57.1,60.2,B
+A0037,Delhi NCR,standalone lab,731,0.47,Beckman,4,True,2,139.6,43.1,60.2,B
+A0186,Delhi NCR,hospital,579,0.47,local / refurbished,1,True,6,123.1,48.8,60.1,B
+A0442,Bengaluru,lab chain branch,858,0.28,Roche,6,True,1,153.4,39.1,60.0,B
+A0126,Bengaluru,lab chain branch,709,0.34,Roche,10,False,4,137.2,43.6,59.8,B
+A0360,Bengaluru,diagnostic centre,401,0.42,local / refurbished,9,False,4,103.7,57.5,59.6,B
+A0394,Bengaluru,hospital,570,0.52,local / refurbished,6,False,11,122.1,48.7,59.5,B
+A0491,Bengaluru,lab chain branch,495,0.23,Abbott,9,True,3,113.9,51.9,59.1,B
+A0541,Delhi NCR,lab chain branch,636,0.52,Siemens (existing),6,False,2,129.3,45.7,59.1,B
+A0252,Bengaluru,lab chain branch,255,0.18,local / refurbished,10,True,3,87.8,67.2,59.0,B
+A0220,Delhi NCR,lab chain branch,706,0.54,Roche,8,False,8,136.9,43.0,58.9,B
+A0432,Delhi NCR,hospital,1013,0.33,Abbott,4,True,6,170.3,34.5,58.8,B
+A0496,Delhi NCR,lab chain branch,1160,0.36,Roche,7,False,2,186.3,31.5,58.7,B
+A0264,Bengaluru,lab chain branch,480,0.47,Siemens (existing),8,False,3,112.3,52.2,58.6,B
+A0161,Delhi NCR,lab chain branch,506,0.68,Roche,5,True,7,115.1,50.8,58.5,B
+A0401,Delhi NCR,hospital,521,0.34,local / refurbished,8,False,1,116.7,50.0,58.4,B
+A0022,Bengaluru,hospital,620,0.66,local / refurbished,4,False,11,127.5,45.7,58.3,B
+A0282,Bengaluru,hospital,635,0.11,Roche,9,True,10,129.2,45.1,58.3,B
+A0153,Delhi NCR,lab chain branch,812,0.29,Abbott,9,False,8,148.4,39.3,58.3,B
+A0520,Delhi NCR,hospital,360,0.45,Roche,9,True,4,99.2,58.7,58.2,B
+A0378,Bengaluru,hospital,617,0.44,Roche,6,True,12,127.2,45.5,57.9,B
+A0187,Bengaluru,hospital,523,0.54,local / refurbished,6,False,11,117.0,49.5,57.9,B
+A0499,Delhi NCR,standalone lab,731,0.45,Abbott,8,False,2,139.6,41.4,57.8,B
+A0465,Bengaluru,standalone lab,226,0.53,local / refurbished,7,True,7,84.6,68.3,57.8,B
+A0021,Delhi NCR,diagnostic centre,539,0.22,Siemens (existing),6,True,3,118.7,48.7,57.8,B
+A0263,Delhi NCR,hospital,967,0.5,Abbott,6,False,6,165.3,34.9,57.7,B
+A0422,Delhi NCR,hospital,423,0.41,Siemens (existing),9,False,9,106.1,54.1,57.4,B
+A0247,Bengaluru,lab chain branch,855,0.56,local / refurbished,3,False,3,153.1,37.4,57.3,B
+A0124,Bengaluru,standalone lab,296,0.42,local / refurbished,11,False,9,92.2,61.8,57.0,B
+A0210,Delhi NCR,hospital,558,0.7,Abbott,7,False,10,120.8,47.1,56.9,B
+A0351,Bengaluru,diagnostic centre,532,0.35,Abbott,7,True,5,117.9,48.1,56.7,B
+A0167,Delhi NCR,hospital,713,0.38,Roche,9,False,10,137.6,40.9,56.3,B
+A0369,Bengaluru,lab chain branch,1449,0.27,Roche,1,True,11,217.8,25.8,56.2,B
+A0575,Bengaluru,standalone lab,200,0.21,local / refurbished,11,True,9,81.8,68.4,56.0,B
+A0259,Delhi NCR,standalone lab,279,0.41,Roche,11,True,1,90.4,61.4,55.5,B
+A0565,Delhi NCR,lab chain branch,709,0.1,local / refurbished,8,False,12,137.2,40.4,55.4,B
+A0016,Delhi NCR,hospital,741,0.45,Roche,8,False,11,140.7,39.4,55.4,B
+A0203,Delhi NCR,lab chain branch,739,0.47,Siemens (existing),5,False,1,140.5,39.4,55.4,B
+A0476,Delhi NCR,lab chain branch,731,0.19,Abbott,10,False,6,139.6,39.6,55.3,B
+A0478,Delhi NCR,standalone lab,441,0.44,Siemens (existing),8,False,8,108.0,51.0,55.1,B
+A0384,Bengaluru,hospital,1017,0.22,Abbott,8,False,3,170.8,32.2,55.0,B
+A0204,Bengaluru,standalone lab,336,0.29,Roche,11,True,2,96.6,56.6,54.7,B
+A0303,Delhi NCR,diagnostic centre,491,0.13,local / refurbished,6,True,5,113.5,48.1,54.6,B
+A0327,Bengaluru,lab chain branch,454,0.54,Roche,6,True,4,109.4,49.5,54.2,B
+A0590,Bengaluru,hospital,986,0.33,Abbott,7,False,6,167.4,32.3,54.1,B
+A0063,Bengaluru,lab chain branch,462,0.58,Roche,9,False,7,110.3,48.9,53.9,B
+A0554,Bengaluru,lab chain branch,579,0.61,local / refurbished,4,False,6,123.1,43.7,53.8,B
+A0434,Delhi NCR,hospital,759,0.35,Roche,5,True,4,142.7,37.6,53.7,B
+A0349,Delhi NCR,hospital,999,0.2,local / refurbished,5,False,11,168.8,31.6,53.3,B
+A0150,Delhi NCR,lab chain branch,306,0.54,Beckman,11,False,9,93.3,56.6,52.8,B
+A0451,Bengaluru,standalone lab,216,0.45,Roche,11,True,7,83.5,63.0,52.6,B
+A0466,Bengaluru,lab chain branch,663,0.46,Roche,8,False,2,132.2,39.8,52.6,B
+A0481,Delhi NCR,hospital,885,0.25,Roche,5,True,7,156.4,33.6,52.6,B
+A0143,Delhi NCR,hospital,846,0.49,local / refurbished,2,False,4,152.1,34.6,52.6,B
+A0286,Bengaluru,diagnostic centre,565,0.6,Abbott,7,False,10,121.5,43.1,52.4,B
+A0314,Delhi NCR,hospital,1132,0.07,Roche,9,False,7,183.3,28.5,52.2,B
+A0448,Bengaluru,hospital,490,0.4,Roche,11,False,5,113.4,46.0,52.2,B
+A0411,Bengaluru,standalone lab,365,0.35,Abbott,8,True,6,99.7,52.4,52.2,B
+A0383,Delhi NCR,standalone lab,562,0.18,Siemens (existing),5,True,3,121.2,42.8,51.9,B
+A0530,Bengaluru,hospital,390,0.51,Roche,10,False,5,102.5,50.4,51.7,B
+A0251,Delhi NCR,lab chain branch,734,0.6,Roche,6,False,1,139.9,36.9,51.6,B
+A0289,Delhi NCR,lab chain branch,312,0.62,local / refurbished,1,True,6,94.0,54.8,51.5,B
+A0055,Delhi NCR,hospital,548,0.32,Roche,10,False,7,119.7,42.8,51.2,B
+A0295,Delhi NCR,lab chain branch,349,0.18,local / refurbished,11,False,10,98.0,52.2,51.2,B
+A0364,Delhi NCR,hospital,861,0.46,Abbott,6,False,3,153.8,33.3,51.2,B
+A0106,Bengaluru,hospital,701,0.46,Abbott,7,False,11,136.3,37.5,51.1,B
+A0490,Delhi NCR,hospital,1641,0.32,Roche,5,False,7,238.7,21.4,51.1,B
+A0170,Delhi NCR,hospital,323,0.54,Abbott,11,False,9,95.2,53.6,51.0,C
+A0542,Delhi NCR,diagnostic centre,495,0.21,local / refurbished,8,False,3,113.9,44.8,51.0,B
+A0550,Bengaluru,hospital,323,0.43,Roche,8,True,12,95.2,53.6,51.0,B
+A0108,Delhi NCR,hospital,339,0.37,Siemens (existing),9,False,6,96.9,52.5,50.9,C
+A0240,Bengaluru,standalone lab,217,0.39,Roche,10,True,1,83.6,60.6,50.7,C
+A0184,Bengaluru,lab chain branch,275,0.5,local / refurbished,8,False,8,89.9,56.4,50.7,C
+A0244,Delhi NCR,standalone lab,496,0.47,Roche,9,False,12,114.0,44.5,50.7,C
+A0069,Bengaluru,lab chain branch,458,0.5,Roche,9,False,9,109.9,45.7,50.2,C
+A0525,Bengaluru,hospital,751,0.51,Roche,1,True,6,141.8,35.4,50.2,C
+A0321,Bengaluru,lab chain branch,951,0.23,Abbott,4,True,6,163.6,30.5,49.9,C
+A0376,Bengaluru,hospital,377,0.48,Roche,11,False,7,101.1,49.2,49.7,C
+A0057,Delhi NCR,hospital,469,0.64,Abbott,7,False,6,111.1,44.7,49.7,C
+A0494,Delhi NCR,standalone lab,270,0.51,Beckman,10,False,2,89.4,55.4,49.5,C
+A0134,Delhi NCR,lab chain branch,377,0.39,Siemens (existing),8,False,10,101.1,49.0,49.5,C
+A0118,Delhi NCR,lab chain branch,401,0.39,Abbott,10,False,1,103.7,47.6,49.4,C
+A0043,Delhi NCR,standalone lab,247,0.72,Roche,6,True,7,86.9,56.7,49.3,C
+A0315,Delhi NCR,diagnostic centre,486,0.61,Abbott,7,False,5,112.9,43.5,49.1,C
+A0064,Delhi NCR,diagnostic centre,231,0.39,Siemens (existing),11,False,7,85.2,57.6,49.1,C
+A0310,Bengaluru,hospital,460,0.24,Beckman,10,False,8,110.1,44.6,49.1,C
+A0013,Delhi NCR,lab chain branch,372,0.47,Roche,11,False,8,100.5,48.8,49.0,C
+A0090,Delhi NCR,lab chain branch,389,0.32,Beckman,11,False,7,102.4,47.8,48.9,C
+A0307,Delhi NCR,hospital,414,0.25,Roche,8,True,10,105.1,46.4,48.8,C
+A0082,Delhi NCR,lab chain branch,553,0.21,Abbott,11,False,10,120.2,40.4,48.6,C
+A0318,Delhi NCR,hospital,1827,0.09,local / refurbished,1,False,7,259.0,18.6,48.2,C
+A0224,Delhi NCR,standalone lab,454,0.51,Roche,5,True,8,109.4,44.0,48.1,C
+A0009,Bengaluru,hospital,649,0.15,Beckman,9,False,4,130.7,36.7,48.0,C
+A0419,Bengaluru,standalone lab,305,0.22,Abbott,9,True,8,93.2,51.5,48.0,C
+A0250,Delhi NCR,lab chain branch,739,0.26,local / refurbished,5,False,11,140.5,34.0,47.8,C
+A0322,Delhi NCR,lab chain branch,475,0.73,Beckman,5,False,2,111.7,42.8,47.8,C
+A0096,Delhi NCR,lab chain branch,345,0.72,Beckman,1,True,7,97.6,48.8,47.6,C
+A0524,Delhi NCR,lab chain branch,333,0.2,Beckman,8,True,6,96.3,49.4,47.6,C
+A0001,Delhi NCR,hospital,904,0.53,Roche,5,False,4,158.4,29.8,47.2,C
+A0176,Delhi NCR,hospital,1056,0.3,Roche,3,True,9,175.0,27.0,47.2,C
+A0532,Bengaluru,diagnostic centre,224,0.38,local / refurbished,9,False,5,84.4,55.9,47.2,C
+A0305,Delhi NCR,lab chain branch,710,0.27,Abbott,8,False,2,137.3,34.2,47.0,C
+A0156,Delhi NCR,diagnostic centre,183,0.54,Beckman,7,True,7,79.9,58.7,46.9,C
+A0168,Delhi NCR,lab chain branch,500,0.52,Beckman,3,True,4,114.4,40.8,46.7,C
+A0029,Delhi NCR,standalone lab,148,0.57,Abbott,8,True,5,76.1,61.2,46.6,C
+A0219,Bengaluru,hospital,1090,0.35,Siemens (existing),1,False,2,178.7,26.0,46.5,C
+A0125,Delhi NCR,hospital,610,0.28,Abbott,5,True,6,126.4,36.8,46.5,C
+A0114,Bengaluru,lab chain branch,654,0.29,local / refurbished,5,False,12,131.2,35.2,46.2,C
+A0239,Delhi NCR,lab chain branch,610,0.59,Roche,6,False,1,126.4,36.5,46.1,C
+A0338,Bengaluru,standalone lab,518,0.24,Roche,10,False,12,116.4,39.6,46.1,C
+A0031,Bengaluru,hospital,278,0.52,local / refurbished,1,True,6,90.3,50.8,45.9,C
+A0500,Delhi NCR,diagnostic centre,946,0.7,Roche,2,False,7,163.0,28.0,45.6,C
+A0340,Bengaluru,diagnostic centre,345,0.47,Roche,6,True,7,97.6,46.7,45.6,C
+A0544,Delhi NCR,standalone lab,332,0.47,Beckman,5,True,7,96.2,47.4,45.6,C
+A0341,Delhi NCR,standalone lab,207,0.32,Siemens (existing),11,False,9,82.5,54.8,45.2,C
+A0138,Bengaluru,hospital,674,0.31,Abbott,4,True,8,133.4,33.7,45.0,C
+A0144,Delhi NCR,diagnostic centre,395,0.4,Abbott,9,False,2,103.0,43.7,45.0,C
+A0512,Bengaluru,diagnostic centre,463,0.32,Roche,6,True,6,110.4,40.7,44.9,C
+A0215,Bengaluru,hospital,142,0.47,local / refurbished,9,False,6,75.5,59.5,44.9,C
+A0562,Bengaluru,lab chain branch,529,0.26,Abbott,9,False,4,117.6,38.1,44.8,C
+A0034,Delhi NCR,hospital,886,0.2,Siemens (existing),5,False,3,156.5,28.6,44.8,C
+A0533,Delhi NCR,hospital,480,0.52,Abbott,7,False,8,112.3,39.9,44.8,C
+A0344,Bengaluru,hospital,418,0.42,Abbott,5,True,3,105.5,42.4,44.7,C
+A0475,Bengaluru,hospital,349,0.37,Beckman,9,False,6,98.0,45.5,44.6,C
+A0237,Bengaluru,standalone lab,150,0.21,Beckman,11,True,12,76.3,58.4,44.6,C
+A0223,Delhi NCR,lab chain branch,600,0.14,Abbott,6,True,9,125.3,35.5,44.5,C
+A0458,Delhi NCR,standalone lab,669,0.3,Roche,8,False,6,132.9,33.4,44.4,C
+A0551,Delhi NCR,standalone lab,163,0.41,local / refurbished,9,False,3,77.8,57.1,44.4,C
+A0207,Delhi NCR,hospital,745,0.06,Siemens (existing),7,False,4,141.1,31.5,44.4,C
+A0083,Bengaluru,standalone lab,201,0.71,Abbott,5,True,3,81.9,54.0,44.2,C
+A0290,Delhi NCR,standalone lab,260,0.23,local / refurbished,9,False,4,88.3,49.9,44.1,C
+A0464,Delhi NCR,lab chain branch,873,0.66,Abbott,1,False,8,155.1,28.4,44.0,C
+A0540,Bengaluru,diagnostic centre,615,0.49,local / refurbished,1,False,9,127.0,34.6,43.9,C
+A0538,Bengaluru,hospital,393,0.26,local / refurbished,7,False,4,102.8,42.5,43.7,C
+A0391,Bengaluru,diagnostic centre,404,0.35,Abbott,9,False,12,104.0,41.7,43.4,C
+A0398,Bengaluru,standalone lab,147,0.51,local / refurbished,8,False,5,76.0,56.8,43.2,C
+A0468,Bengaluru,hospital,583,0.39,Roche,4,True,7,123.5,34.9,43.1,C
+A0166,Bengaluru,hospital,403,0.36,Siemens (existing),2,True,8,103.9,41.4,43.0,C
+A0068,Bengaluru,diagnostic centre,238,0.12,Roche,10,True,10,85.9,49.8,42.8,C
+A0270,Bengaluru,standalone lab,513,0.44,Abbott,7,False,5,115.9,36.7,42.5,C
+A0319,Bengaluru,standalone lab,302,0.5,Roche,9,False,1,92.9,45.7,42.5,C
+A0598,Delhi NCR,hospital,625,0.45,local / refurbished,1,False,4,128.1,33.0,42.3,C
+A0042,Delhi NCR,lab chain branch,466,0.26,Abbott,9,False,10,110.7,38.1,42.2,C
+A0035,Delhi NCR,lab chain branch,659,0.35,Beckman,6,False,8,131.8,31.9,42.0,C
+A0559,Delhi NCR,lab chain branch,685,0.47,Siemens (existing),2,False,10,134.6,30.8,41.5,C
+A0492,Delhi NCR,hospital,323,0.68,Siemens (existing),4,False,9,95.2,43.5,41.4,C
+A0277,Delhi NCR,lab chain branch,309,0.59,Siemens (existing),5,False,9,93.7,44.2,41.4,C
+A0216,Bengaluru,standalone lab,184,0.6,Abbott,9,False,12,80.0,51.7,41.4,C
+A0437,Bengaluru,standalone lab,196,0.63,Roche,9,False,11,81.3,50.9,41.4,C
+A0599,Bengaluru,hospital,995,0.13,local / refurbished,4,False,8,168.4,24.5,41.3,C
+A0517,Bengaluru,hospital,1226,0.21,Roche,6,False,11,193.5,21.3,41.2,C
+A0365,Delhi NCR,lab chain branch,264,0.36,local / refurbished,7,False,5,88.7,46.5,41.2,C
+A0200,Bengaluru,standalone lab,138,0.57,Abbott,10,False,7,75.0,54.8,41.1,C
+A0165,Delhi NCR,lab chain branch,710,0.3,Beckman,6,False,4,137.3,29.9,41.1,C
+A0353,Bengaluru,hospital,798,0.27,Roche,7,False,7,146.9,27.9,41.0,C
+A0256,Delhi NCR,hospital,320,0.44,Roche,9,False,7,94.8,43.3,41.0,C
+A0568,Bengaluru,hospital,546,0.37,Roche,4,True,6,119.5,34.1,40.7,C
+A0297,Bengaluru,standalone lab,297,0.51,local / refurbished,5,False,11,92.3,44.0,40.6,C
+A0539,Bengaluru,hospital,459,0.12,Abbott,11,False,6,110.0,36.8,40.5,C
+A0334,Delhi NCR,hospital,493,0.09,Abbott,11,False,1,113.7,35.6,40.5,C
+A0279,Bengaluru,diagnostic centre,307,0.56,Siemens (existing),5,False,10,93.4,43.0,40.2,C
+A0104,Delhi NCR,hospital,659,0.26,Beckman,3,True,7,131.8,30.4,40.1,C
+A0137,Bengaluru,hospital,2322,0.32,Roche,3,False,2,312.9,12.8,40.1,C
+A0586,Delhi NCR,lab chain branch,1079,0.19,Abbott,6,False,7,177.5,22.5,39.9,C
+A0556,Delhi NCR,lab chain branch,612,0.36,Abbott,1,True,7,126.6,31.4,39.8,C
+A0366,Bengaluru,hospital,1223,0.39,Beckman,1,False,2,193.2,20.6,39.8,C
+A0585,Bengaluru,hospital,451,0.1,Abbott,11,False,11,109.1,36.0,39.3,C
+A0213,Bengaluru,diagnostic centre,256,0.24,Beckman,10,False,12,87.9,44.6,39.2,C
+A0316,Delhi NCR,hospital,1264,0.28,Roche,5,False,11,197.6,19.8,39.1,C
+A0058,Bengaluru,lab chain branch,585,0.36,Roche,7,False,1,123.7,31.5,39.0,C
+A0241,Delhi NCR,hospital,1815,0.22,Abbott,4,False,1,257.7,15.1,38.9,C
+A0460,Delhi NCR,hospital,637,0.27,local / refurbished,4,False,9,129.4,30.1,38.9,C
+A0158,Delhi NCR,lab chain branch,716,0.58,Beckman,3,False,9,138.0,28.2,38.9,C
+A0233,Delhi NCR,lab chain branch,388,0.52,Abbott,1,True,7,102.3,37.8,38.7,C
+A0208,Bengaluru,hospital,992,0.36,Roche,5,False,6,168.0,23.0,38.6,C
+A0116,Bengaluru,lab chain branch,723,0.64,Abbott,2,False,11,138.7,27.6,38.3,C
+A0003,Bengaluru,lab chain branch,368,0.53,Roche,7,False,2,100.1,38.3,38.3,C
+A0577,Delhi NCR,lab chain branch,283,0.41,Roche,9,False,3,90.8,42.1,38.2,C
+A0103,Bengaluru,hospital,334,0.29,Roche,6,True,12,96.4,39.5,38.1,C
+A0569,Delhi NCR,standalone lab,259,0.49,Roche,5,True,7,88.2,43.2,38.1,C
+A0546,Delhi NCR,lab chain branch,375,0.07,Beckman,11,False,4,100.8,37.8,38.1,C
+A0041,Delhi NCR,lab chain branch,368,0.4,Beckman,7,False,6,100.1,38.1,38.1,C
+A0011,Bengaluru,lab chain branch,255,0.44,Roche,9,False,4,87.8,43.3,38.0,C
+A0553,Bengaluru,standalone lab,294,0.55,local / refurbished,4,False,9,92.0,41.3,38.0,C
+A0072,Delhi NCR,standalone lab,329,0.35,Roche,9,False,6,95.8,39.7,38.0,C
+A0557,Delhi NCR,standalone lab,137,0.39,Beckman,10,False,8,74.9,50.6,37.9,C
+A0127,Bengaluru,hospital,797,0.43,Roche,5,False,2,146.8,25.8,37.9,C
+A0242,Delhi NCR,lab chain branch,499,0.42,Siemens (existing),4,False,2,114.3,33.1,37.8,C
+A0071,Delhi NCR,diagnostic centre,313,0.47,Roche,8,False,1,94.1,40.2,37.8,C
+A0413,Delhi NCR,hospital,473,0.2,Roche,9,False,7,111.5,33.7,37.6,C
+A0593,Delhi NCR,hospital,378,0.18,Roche,11,False,7,101.2,37.2,37.6,C
+A0312,Bengaluru,lab chain branch,519,0.38,Abbott,3,True,3,116.5,32.2,37.5,C
+A0045,Bengaluru,standalone lab,150,0.53,Roche,6,True,7,76.3,49.1,37.5,C
+A0133,Delhi NCR,hospital,285,0.28,Roche,10,False,7,91.0,41.2,37.5,C
+A0017,Bengaluru,lab chain branch,732,0.08,Roche,5,True,5,139.7,26.8,37.4,C
+A0121,Delhi NCR,standalone lab,209,0.33,Abbott,10,False,10,82.8,45.2,37.4,C
+A0107,Delhi NCR,standalone lab,154,0.5,Beckman,5,True,5,76.8,48.6,37.3,C
+A0350,Bengaluru,standalone lab,338,0.46,Beckman,3,True,5,96.8,38.4,37.2,C
+A0547,Delhi NCR,hospital,833,0.49,Beckman,2,False,10,150.7,24.6,37.1,C
+A0552,Delhi NCR,lab chain branch,302,0.55,Beckman,6,False,7,92.9,39.9,37.1,C
+A0005,Delhi NCR,lab chain branch,438,0.16,Abbott,9,False,3,107.7,34.1,36.7,C
+A0226,Delhi NCR,standalone lab,156,0.17,local / refurbished,9,False,11,77.0,47.5,36.6,C
+A0087,Bengaluru,lab chain branch,218,0.55,Roche,8,False,8,83.7,43.4,36.3,C
+A0497,Delhi NCR,hospital,736,0.38,Abbott,5,False,9,140.2,25.8,36.2,C
+A0584,Delhi NCR,lab chain branch,874,0.53,Abbott,1,False,8,155.2,23.2,36.0,C
+A0048,Delhi NCR,standalone lab,158,0.58,Abbott,8,False,4,77.2,46.6,36.0,C
+A0309,Bengaluru,hospital,271,0.41,local / refurbished,5,False,1,89.5,40.0,35.8,C
+A0193,Delhi NCR,lab chain branch,550,0.37,local / refurbished,2,False,2,119.9,29.8,35.7,C
+A0342,Delhi NCR,hospital,142,0.27,local / refurbished,8,False,6,75.5,47.2,35.6,C
+A0582,Bengaluru,standalone lab,344,0.54,Abbott,6,False,5,97.5,36.5,35.6,C
+A0518,Delhi NCR,standalone lab,290,0.49,Abbott,7,False,11,91.6,38.7,35.4,C
+A0324,Delhi NCR,standalone lab,279,0.18,Abbott,11,False,4,90.4,39.2,35.4,C
+A0141,Delhi NCR,lab chain branch,534,0.14,Beckman,4,True,1,118.2,29.9,35.3,C
+A0159,Bengaluru,standalone lab,301,0.36,local / refurbished,5,False,1,92.8,38.0,35.3,C
+A0370,Delhi NCR,standalone lab,205,0.48,Roche,5,True,6,82.3,42.8,35.2,C
+A0346,Delhi NCR,lab chain branch,484,0.03,local / refurbished,1,True,3,112.7,31.2,35.2,C
+A0205,Delhi NCR,lab chain branch,659,0.29,local / refurbished,1,False,4,131.8,26.6,35.1,C
+A0367,Delhi NCR,lab chain branch,395,0.3,Beckman,7,False,2,103.0,34.1,35.1,C
+A0382,Bengaluru,diagnostic centre,469,0.36,Roche,7,False,5,111.1,31.5,35.0,C
+A0489,Bengaluru,diagnostic centre,195,0.65,Roche,7,False,7,81.2,43.1,35.0,C
+A0566,Bengaluru,hospital,799,0.11,local / refurbished,4,False,11,147.0,23.7,34.8,C
+A0218,Bengaluru,hospital,845,0.52,Abbott,1,False,1,152.0,22.8,34.7,C
+A0323,Delhi NCR,lab chain branch,393,0.41,Roche,7,False,2,102.8,33.5,34.4,C
+A0306,Bengaluru,standalone lab,370,0.27,Abbott,8,False,4,100.3,34.2,34.3,C
+A0276,Delhi NCR,hospital,333,0.3,local / refurbished,5,False,2,96.3,35.6,34.3,C
+A0232,Bengaluru,hospital,482,0.39,Abbott,6,False,8,112.5,30.5,34.3,C
+A0515,Bengaluru,standalone lab,114,0.38,local / refurbished,7,False,10,72.4,47.3,34.2,C
+A0486,Bengaluru,standalone lab,327,0.41,local / refurbished,4,False,10,95.6,35.7,34.1,C
+A0463,Delhi NCR,hospital,695,0.15,Abbott,7,False,4,135.7,25.1,34.1,C
+A0450,Delhi NCR,hospital,636,0.44,Roche,5,False,2,129.3,26.2,33.9,C
+A0248,Bengaluru,hospital,416,0.16,Roche,9,False,5,105.3,32.1,33.8,C
+A0455,Delhi NCR,standalone lab,195,0.13,Roche,8,True,2,81.2,41.6,33.8,C
+A0444,Delhi NCR,lab chain branch,786,0.53,Abbott,1,False,3,145.6,23.2,33.8,C
+A0462,Bengaluru,hospital,1026,0.17,Roche,6,False,8,171.7,19.7,33.8,C
+A0511,Bengaluru,diagnostic centre,450,0.29,Roche,4,True,3,109.0,30.9,33.7,C
+A0255,Bengaluru,diagnostic centre,137,0.43,Abbott,9,False,9,74.9,44.9,33.6,C
+A0272,Bengaluru,diagnostic centre,190,0.63,Siemens (existing),4,False,10,80.7,41.5,33.5,C
+A0406,Bengaluru,hospital,335,0.44,Abbott,2,True,1,96.5,34.6,33.4,C
+A0052,Bengaluru,lab chain branch,191,0.39,Roche,9,False,11,80.8,41.3,33.4,C
+A0449,Delhi NCR,hospital,221,0.35,Roche,9,False,8,84.1,39.7,33.4,C
+A0392,Delhi NCR,lab chain branch,412,0.26,Roche,8,False,10,104.9,31.8,33.4,C
+A0026,Bengaluru,lab chain branch,628,0.54,Roche,4,False,4,128.4,25.9,33.3,C
+A0217,Delhi NCR,lab chain branch,1094,0.2,Abbott,5,False,8,179.1,18.6,33.3,C
+A0469,Bengaluru,standalone lab,294,0.29,Beckman,4,True,5,92.0,35.9,33.0,C
+A0014,Bengaluru,standalone lab,227,0.38,Abbott,8,False,1,84.7,38.6,32.7,C
+A0231,Bengaluru,standalone lab,416,0.47,Siemens (existing),2,False,2,105.3,30.8,32.4,C
+A0519,Bengaluru,standalone lab,152,0.63,Abbott,2,True,8,76.6,42.2,32.3,C
+A0386,Delhi NCR,standalone lab,220,0.21,Abbott,6,True,3,84.0,38.3,32.2,C
+A0111,Bengaluru,hospital,1021,0.13,Beckman,5,False,7,171.2,18.8,32.2,C
+A0368,Delhi NCR,diagnostic centre,317,0.12,Siemens (existing),7,False,10,94.5,33.9,32.0,C
+A0046,Bengaluru,standalone lab,374,0.31,local / refurbished,4,False,10,100.7,31.7,31.9,C
+A0356,Delhi NCR,lab chain branch,324,0.41,Roche,7,False,3,95.3,33.5,31.9,C
+A0164,Delhi NCR,diagnostic centre,345,0.33,local / refurbished,4,False,1,97.6,32.5,31.7,C
+A0149,Delhi NCR,hospital,724,0.57,Roche,1,False,12,138.8,22.8,31.6,C
+A0115,Bengaluru,hospital,713,0.36,Roche,5,False,7,137.6,23.0,31.6,C
+A0583,Delhi NCR,lab chain branch,604,0.47,Abbott,4,False,9,125.8,25.1,31.6,C
+A0066,Bengaluru,standalone lab,228,0.23,Roche,6,True,8,84.8,37.1,31.5,C
+A0169,Delhi NCR,standalone lab,444,0.57,Abbott,4,False,3,108.4,29.1,31.5,C
+A0526,Bengaluru,standalone lab,74,0.62,Roche,8,False,3,68.1,46.2,31.5,C
+A0093,Bengaluru,lab chain branch,427,0.61,Beckman,2,False,6,106.5,29.4,31.3,C
+A0570,Delhi NCR,standalone lab,274,0.12,local / refurbished,2,True,1,89.8,34.8,31.3,C
+A0261,Delhi NCR,hospital,481,0.32,local / refurbished,2,False,11,112.4,27.8,31.2,C
+A0418,Delhi NCR,lab chain branch,389,0.42,Beckman,5,False,8,102.4,30.4,31.1,C
+A0199,Delhi NCR,lab chain branch,532,0.23,Roche,7,False,1,117.9,26.3,31.0,C
+A0142,Delhi NCR,hospital,361,0.35,Roche,7,False,12,99.3,31.1,30.9,C
+A0139,Bengaluru,lab chain branch,621,0.34,Abbott,5,False,11,127.6,24.2,30.9,C
+A0155,Delhi NCR,standalone lab,148,0.34,Siemens (existing),2,True,9,76.1,40.6,30.9,C
+A0079,Delhi NCR,standalone lab,221,0.15,Beckman,9,False,2,84.1,36.7,30.9,C
+A0473,Delhi NCR,hospital,1147,0.31,Roche,4,False,1,184.9,16.7,30.9,C
+A0555,Delhi NCR,diagnostic centre,253,0.39,Roche,4,True,12,87.6,34.9,30.6,C
+A0543,Delhi NCR,standalone lab,411,0.57,Abbott,4,False,7,104.8,29.1,30.5,C
+A0564,Bengaluru,lab chain branch,296,0.29,Roche,8,False,8,92.2,33.0,30.4,C
+A0292,Delhi NCR,hospital,347,0.24,Roche,8,False,1,97.8,31.0,30.3,C
+A0109,Delhi NCR,hospital,900,0.37,Roche,4,False,8,158.0,19.1,30.2,C
+A0592,Delhi NCR,hospital,483,0.29,local / refurbished,2,False,1,112.6,26.6,30.0,C
+A0467,Delhi NCR,hospital,291,0.71,Roche,4,False,4,91.7,32.7,30.0,C
+A0088,Delhi NCR,standalone lab,175,0.39,Beckman,7,False,11,79.1,37.7,29.8,C
+A0110,Delhi NCR,diagnostic centre,317,0.36,Abbott,3,True,12,94.5,31.4,29.7,C
+A0440,Delhi NCR,lab chain branch,394,0.35,Abbott,6,False,9,102.9,28.9,29.7,C
+A0404,Bengaluru,standalone lab,339,0.39,Roche,1,True,3,96.9,30.6,29.7,C
+A0580,Bengaluru,hospital,936,0.33,Beckman,1,False,12,161.9,18.2,29.5,C
+A0033,Delhi NCR,diagnostic centre,410,0.32,local / refurbished,1,False,4,104.6,27.8,29.1,C
+A0136,Bengaluru,standalone lab,118,0.41,Abbott,8,False,9,72.9,39.8,29.0,C
+A0183,Delhi NCR,standalone lab,141,0.48,Abbott,7,False,12,75.4,38.3,28.9,C
+A0102,Bengaluru,standalone lab,127,0.28,Roche,6,True,5,73.8,39.1,28.9,C
+A0061,Delhi NCR,standalone lab,632,0.4,Abbott,4,False,7,128.8,22.3,28.7,C
+A0145,Bengaluru,hospital,412,0.31,Roche,3,True,11,104.9,27.4,28.7,C
+A0446,Bengaluru,diagnostic centre,248,0.18,Roche,9,False,6,87.0,32.9,28.6,C
+A0197,Delhi NCR,hospital,788,0.44,Abbott,1,False,8,145.8,19.6,28.6,C
+A0379,Delhi NCR,standalone lab,423,0.19,local / refurbished,4,False,3,106.1,26.9,28.5,C
+A0430,Delhi NCR,hospital,645,0.39,Abbott,4,False,1,130.2,21.9,28.5,C
+A0461,Bengaluru,standalone lab,217,0.51,Beckman,5,False,8,83.6,34.0,28.4,C
+A0171,Delhi NCR,lab chain branch,493,0.28,Beckman,5,False,11,113.7,24.8,28.2,C
+A0007,Bengaluru,hospital,403,0.25,Abbott,2,True,4,103.9,27.0,28.1,C
+A0120,Bengaluru,diagnostic centre,325,0.52,Roche,5,False,10,95.4,29.4,28.0,C
+A0361,Delhi NCR,diagnostic centre,309,0.48,Abbott,5,False,7,93.7,29.8,27.9,C
+A0572,Delhi NCR,standalone lab,177,0.27,Beckman,4,True,10,79.3,35.1,27.8,C
+A0591,Delhi NCR,lab chain branch,348,0.12,Roche,5,True,10,97.9,28.4,27.8,C
+A0185,Delhi NCR,diagnostic centre,330,0.24,local / refurbished,4,False,11,95.9,28.9,27.7,C
+A0521,Delhi NCR,lab chain branch,349,0.26,Beckman,6,False,6,98.0,28.3,27.7,C
+A0100,Bengaluru,lab chain branch,809,0.36,Roche,4,False,2,148.1,18.7,27.7,C
+A0049,Delhi NCR,hospital,475,0.57,Abbott,2,False,9,111.7,24.8,27.7,C
+A0362,Delhi NCR,lab chain branch,347,0.33,local / refurbished,2,False,1,97.8,28.2,27.6,C
+A0140,Delhi NCR,lab chain branch,1129,0.22,Abbott,4,False,9,182.9,15.1,27.6,C
+A0333,Delhi NCR,lab chain branch,490,0.39,Roche,5,False,8,113.4,24.2,27.4,C
+A0294,Bengaluru,standalone lab,240,0.21,Abbott,8,False,3,86.1,31.8,27.4,C
+A0234,Delhi NCR,hospital,939,0.37,Abbott,3,False,5,162.3,16.8,27.3,C
+A0015,Bengaluru,diagnostic centre,180,0.21,Roche,9,False,12,79.6,34.1,27.1,C
+A0488,Delhi NCR,standalone lab,237,0.36,Roche,7,False,7,85.8,31.5,27.0,C
+A0060,Bengaluru,hospital,942,0.29,Beckman,2,False,10,162.6,16.6,27.0,C
+A0254,Bengaluru,lab chain branch,722,0.33,Abbott,4,False,5,138.6,19.5,27.0,C
+A0073,Delhi NCR,standalone lab,333,0.27,Roche,7,False,2,96.3,27.9,26.9,C
+A0230,Delhi NCR,hospital,1234,0.22,Beckman,2,False,2,194.4,13.8,26.8,C
+A0514,Bengaluru,lab chain branch,1093,0.25,Beckman,2,False,1,179.0,15.0,26.8,C
+A0131,Delhi NCR,lab chain branch,832,0.44,Roche,2,False,7,150.6,17.6,26.5,C
+A0188,Delhi NCR,standalone lab,348,0.2,Abbott,7,False,10,97.9,27.1,26.5,C
+A0387,Delhi NCR,standalone lab,235,0.32,Beckman,6,False,6,85.6,30.7,26.3,C
+A0408,Bengaluru,hospital,589,0.23,Siemens (existing),2,False,1,124.1,21.2,26.3,C
+A0222,Bengaluru,lab chain branch,289,0.34,Roche,1,True,11,91.5,28.6,26.2,C
+A0175,Delhi NCR,hospital,859,0.21,Roche,5,False,7,153.5,17.0,26.1,C
+A0028,Delhi NCR,hospital,353,0.23,Abbott,1,True,11,98.4,26.2,25.8,C
+A0214,Bengaluru,hospital,265,0.35,local / refurbished,3,False,3,88.9,29.0,25.8,C
+A0268,Bengaluru,standalone lab,315,0.31,Abbott,6,False,3,94.3,27.3,25.7,C
+A0113,Delhi NCR,hospital,365,0.22,Abbott,2,True,10,99.7,25.8,25.7,C
+A0423,Bengaluru,hospital,207,0.18,Roche,5,True,5,82.5,30.8,25.4,C
+A0298,Bengaluru,lab chain branch,325,0.29,Roche,2,True,2,95.4,26.6,25.4,C
+A0480,Delhi NCR,lab chain branch,328,0.18,Roche,4,True,9,95.7,26.5,25.4,C
+A0385,Bengaluru,hospital,506,0.5,Abbott,1,False,12,115.1,22.0,25.3,C
+A0454,Bengaluru,hospital,555,0.29,Beckman,4,False,1,120.4,20.9,25.2,C
+A0578,Delhi NCR,hospital,501,0.55,Roche,2,False,9,114.6,22.0,25.2,C
+A0281,Delhi NCR,lab chain branch,729,0.13,Roche,6,False,4,139.4,18.1,25.2,C
+A0395,Delhi NCR,lab chain branch,371,0.47,Abbott,4,False,3,100.4,25.1,25.2,C
+A0002,Bengaluru,standalone lab,153,0.43,local / refurbished,2,False,2,76.7,32.2,24.7,C
+A0253,Delhi NCR,hospital,1663,0.13,Beckman,3,False,12,241.1,10.2,24.6,C
+A0479,Delhi NCR,hospital,895,0.39,Roche,1,False,6,157.5,15.6,24.6,C
+A0089,Bengaluru,hospital,964,0.32,Abbott,3,False,1,165.0,14.8,24.4,C
+A0172,Delhi NCR,lab chain branch,670,0.08,local / refurbished,2,False,8,133.0,18.2,24.2,C
+A0122,Delhi NCR,standalone lab,222,0.18,Roche,8,False,3,84.2,28.6,24.1,C
+A0174,Delhi NCR,standalone lab,345,0.24,Roche,1,True,4,97.6,24.6,24.0,C
+A0484,Bengaluru,standalone lab,203,0.25,Abbott,7,False,2,82.1,29.1,23.9,C
+A0358,Bengaluru,standalone lab,391,0.53,Abbott,1,False,4,102.6,23.2,23.8,C
+A0477,Bengaluru,diagnostic centre,578,0.36,Beckman,2,False,9,122.9,19.4,23.8,C
+A0260,Bengaluru,diagnostic centre,277,0.66,Roche,2,False,10,90.2,26.4,23.8,C
+A0004,Bengaluru,hospital,478,0.1,Roche,7,False,9,112.1,21.1,23.7,C
+A0574,Delhi NCR,hospital,1376,0.28,Roche,2,False,12,209.8,11.2,23.5,C
+A0123,Bengaluru,standalone lab,459,0.16,local / refurbished,1,False,9,110.0,21.4,23.5,C
+A0504,Bengaluru,standalone lab,216,0.33,local / refurbished,2,False,4,83.5,28.2,23.5,C
+A0485,Bengaluru,standalone lab,157,0.62,Beckman,1,False,12,77.1,29.8,23.0,C
+A0596,Bengaluru,standalone lab,280,0.26,local / refurbished,3,False,5,90.5,25.4,23.0,C
+A0426,Delhi NCR,standalone lab,205,0.11,Abbott,8,False,5,82.3,27.8,22.9,C
+A0032,Bengaluru,lab chain branch,465,0.19,Roche,6,False,7,110.6,20.5,22.7,C
+A0291,Bengaluru,standalone lab,168,0.67,Abbott,2,False,3,78.3,28.8,22.6,C
+A0576,Bengaluru,lab chain branch,415,0.16,Abbott,6,False,4,105.2,21.3,22.4,C
+A0273,Delhi NCR,lab chain branch,643,0.43,Roche,2,False,1,130.0,17.2,22.4,C
+A0202,Delhi NCR,hospital,289,0.56,Abbott,3,False,1,91.5,24.4,22.3,C
+A0354,Delhi NCR,standalone lab,176,0.38,Roche,6,False,1,79.2,28.1,22.3,C
+A0595,Bengaluru,diagnostic centre,338,0.2,Abbott,6,False,9,96.8,22.9,22.2,C
+A0081,Delhi NCR,hospital,330,0.31,Abbott,5,False,3,95.9,23.0,22.1,C
+A0567,Delhi NCR,hospital,366,0.55,Roche,1,False,8,99.9,22.0,22.0,C
+A0487,Delhi NCR,hospital,319,0.45,Beckman,3,False,8,94.7,23.0,21.8,C
+A0189,Bengaluru,lab chain branch,467,0.44,Abbott,2,False,5,110.9,19.6,21.7,C
+A0535,Bengaluru,lab chain branch,493,0.35,Beckman,3,False,3,113.7,19.0,21.6,C
+A0243,Delhi NCR,standalone lab,244,0.36,Abbott,5,False,2,86.6,25.0,21.6,C
+A0054,Bengaluru,standalone lab,100,0.25,Beckman,2,True,1,70.9,30.0,21.3,C
+A0428,Bengaluru,lab chain branch,557,0.39,Abbott,3,False,3,120.7,17.6,21.2,C
+A0329,Delhi NCR,standalone lab,425,0.34,Abbott,4,False,1,106.3,19.9,21.2,C
+A0347,Bengaluru,standalone lab,211,0.59,Abbott,2,False,4,83.0,25.6,21.2,C
+A0549,Delhi NCR,standalone lab,185,0.07,local / refurbished,5,False,3,80.1,26.4,21.1,C
+A0266,Delhi NCR,standalone lab,305,0.24,Roche,6,False,9,93.2,22.5,21.0,C
+A0301,Delhi NCR,hospital,526,0.29,Abbott,4,False,7,117.3,17.9,21.0,C
+A0119,Delhi NCR,standalone lab,241,0.28,Roche,6,False,12,86.2,24.1,20.8,C
+A0510,Delhi NCR,standalone lab,416,0.26,Beckman,4,False,12,105.3,19.7,20.7,C
+A0433,Delhi NCR,standalone lab,136,0.21,Abbott,7,False,6,74.8,27.5,20.6,C
+A0410,Delhi NCR,diagnostic centre,295,0.43,Roche,4,False,4,92.1,21.5,19.8,C
+A0236,Bengaluru,diagnostic centre,363,0.23,Abbott,5,False,5,99.5,19.8,19.7,C
+A0257,Bengaluru,hospital,538,0.09,Roche,6,False,2,118.6,16.5,19.6,C
+A0523,Bengaluru,hospital,236,0.52,Abbott,1,False,12,85.7,22.8,19.5,C
+A0080,Bengaluru,hospital,557,0.4,Roche,3,False,3,120.7,16.0,19.3,C
+A0265,Bengaluru,lab chain branch,879,0.15,Abbott,4,False,6,155.7,12.3,19.2,C
+A0581,Bengaluru,diagnostic centre,366,0.35,Beckman,2,False,2,99.9,19.0,19.0,C
+A0227,Delhi NCR,lab chain branch,357,0.43,Abbott,2,False,10,98.9,19.2,19.0,C
+A0380,Bengaluru,hospital,508,0.36,Abbott,2,False,10,115.3,16.4,18.9,C
+A0393,Delhi NCR,hospital,530,0.35,Abbott,2,False,4,117.7,16.0,18.8,C
+A0128,Delhi NCR,hospital,363,0.31,Abbott,4,False,1,99.5,18.7,18.6,C
+A0179,Bengaluru,standalone lab,154,0.39,Roche,5,False,1,76.8,24.2,18.6,C
+A0249,Bengaluru,lab chain branch,358,0.42,Abbott,1,False,2,99.0,18.8,18.6,C
+A0326,Bengaluru,lab chain branch,147,0.45,Abbott,4,False,9,76.0,24.3,18.5,C
+A0025,Bengaluru,lab chain branch,962,0.23,Abbott,3,False,1,164.8,11.2,18.5,C
+A0571,Bengaluru,standalone lab,134,0.57,Abbott,1,False,8,74.6,24.8,18.5,C
+A0151,Bengaluru,diagnostic centre,346,0.2,Abbott,5,False,12,97.7,18.6,18.2,C
+A0212,Delhi NCR,standalone lab,270,0.13,local / refurbished,1,False,10,89.4,20.2,18.1,C
+A0372,Delhi NCR,standalone lab,396,0.44,Roche,1,False,3,103.1,17.6,18.1,C
+A0560,Bengaluru,lab chain branch,481,0.4,Roche,2,False,2,112.4,16.0,18.0,C
+A0331,Delhi NCR,hospital,403,0.43,Roche,1,False,4,103.9,17.2,17.9,C
+A0529,Delhi NCR,lab chain branch,234,0.22,Siemens (existing),3,False,5,85.5,20.8,17.8,C
+A0397,Delhi NCR,lab chain branch,1142,0.24,Roche,1,False,8,184.4,9.6,17.7,C
+A0180,Delhi NCR,lab chain branch,314,0.41,Abbott,3,False,6,94.2,18.4,17.3,C
+A0505,Delhi NCR,standalone lab,111,0.46,Beckman,2,False,1,72.1,23.4,16.9,C
+A0472,Bengaluru,hospital,315,0.21,Beckman,4,False,11,94.3,17.7,16.7,C
+A0024,Delhi NCR,standalone lab,195,0.45,Abbott,2,False,2,81.2,20.0,16.2,C
+A0531,Delhi NCR,hospital,1045,0.18,Abbott,1,False,6,173.8,9.2,16.0,C
+A0195,Delhi NCR,lab chain branch,335,0.4,Roche,1,False,3,96.5,16.0,15.4,C
+A0332,Bengaluru,hospital,828,0.25,Roche,2,False,6,150.2,10.0,15.0,C
+A0317,Delhi NCR,diagnostic centre,224,0.07,Roche,2,True,1,84.4,17.8,15.0,C
+A0328,Delhi NCR,hospital,415,0.14,Roche,5,False,8,105.2,14.2,14.9,C
+A0363,Bengaluru,lab chain branch,278,0.25,Abbott,4,False,10,90.3,16.3,14.7,C
+A0435,Bengaluru,lab chain branch,242,0.42,Roche,3,False,3,86.4,16.8,14.5,C
+A0192,Delhi NCR,standalone lab,131,0.32,Abbott,4,False,2,74.3,19.1,14.2,C
+A0330,Delhi NCR,lab chain branch,425,0.21,Roche,4,False,7,106.3,12.7,13.5,C
+A0390,Bengaluru,lab chain branch,1061,0.19,Roche,1,False,10,175.5,7.6,13.3,C
+A0177,Delhi NCR,standalone lab,206,0.24,Abbott,4,False,6,82.4,15.9,13.1,C
+A0084,Bengaluru,diagnostic centre,481,0.29,Roche,3,False,9,112.4,11.6,13.0,C
+A0258,Delhi NCR,hospital,255,0.13,Beckman,4,False,10,87.8,14.5,12.7,C
+A0396,Delhi NCR,standalone lab,375,0.3,Roche,3,False,7,100.8,12.0,12.1,C
+A0325,Bengaluru,hospital,981,0.13,Abbott,1,False,7,166.8,7.2,12.0,C
+A0094,Delhi NCR,lab chain branch,426,0.23,Abbott,2,False,5,106.4,11.2,11.9,C
+A0038,Delhi NCR,standalone lab,322,0.2,Roche,4,False,2,95.1,12.3,11.7,C
+A0285,Bengaluru,standalone lab,198,0.25,Roche,4,False,6,81.6,14.3,11.7,C
+A0211,Bengaluru,standalone lab,332,0.29,Roche,2,False,12,96.2,11.6,11.2,C
+A0302,Bengaluru,hospital,533,0.2,Roche,1,False,8,118.0,8.0,9.4,C
+A0135,Delhi NCR,hospital,149,0.25,Abbott,2,False,2,76.2,12.0,9.1,C
+A0198,Bengaluru,lab chain branch,1022,0.12,Roche,3,False,6,171.3,4.8,8.2,C
+A0027,Delhi NCR,standalone lab,161,0.14,Beckman,2,False,12,77.5,10.6,8.2,C
+A0407,Bengaluru,standalone lab,217,0.17,Abbott,3,False,5,83.6,8.8,7.4,C
+A0147,Delhi NCR,hospital,337,0.14,Abbott,3,False,9,96.7,7.6,7.3,C
+A0047,Bengaluru,hospital,1187,0.04,Abbott,3,False,8,189.3,3.6,6.8,C
+A0558,Bengaluru,standalone lab,174,0.19,Roche,1,False,6,78.9,7.6,6.0,C
+A0459,Bengaluru,hospital,941,0.09,Roche,3,False,10,162.5,3.6,5.9,C
+A0059,Bengaluru,hospital,559,0.11,Roche,1,False,2,120.9,4.4,5.3,C

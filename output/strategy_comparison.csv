@@ -1,0 +1,4 @@
+strategy,accounts_worked,avg_demos,avg_quotes,avg_wins,avg_won_value_cr
+priority score,120,79.2,47.9,23.9,39.5
+biggest labs first,120,73.3,44.3,13.9,27.7
+random,120,75.3,45.6,16.3,21.6

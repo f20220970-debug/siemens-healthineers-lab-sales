@@ -1,0 +1,57 @@
+
+== by_segment
+territory              type  accounts  avg_tests_per_day  total_value_cr  tier_a
+Delhi NCR          hospital       136              871.0           210.6    37.0
+Bengaluru          hospital       109              820.0           162.7    26.0
+Delhi NCR  lab chain branch       107              621.0           136.6    14.0
+Bengaluru  lab chain branch        71              666.0            94.1     7.0
+Delhi NCR    standalone lab        67              315.0            63.2     3.0
+Bengaluru    standalone lab        61              282.0            55.3     1.0
+Bengaluru diagnostic centre        30              425.0            31.9     1.0
+Delhi NCR diagnostic centre        19              417.0            20.0     1.0
+
+== by_vendor
+     current_vendor  accounts  avg_age  due_for_replacement  avg_fit
+local / refurbished       118      6.0                 55.0     46.6
+ Siemens (existing)        44      6.2                 22.0     45.5
+            Beckman        79      5.9                 31.0     38.1
+              Roche       191      6.4                 93.0     35.3
+             Abbott       168      5.9                 75.0     34.4
+
+== budget_calendar
+ budget_month  tier_a_accounts  value_cr
+            1               10      21.6
+            2               10      18.0
+            3               11      22.7
+            4                8      15.2
+            5                4       6.8
+            6                6      10.6
+            7                6      10.1
+            8                6      13.9
+            9                8      13.0
+           10                2       3.9
+           11               14      25.8
+           12                5       9.1
+
+== assumptions {'reagent revenue per test (INR)': 55, 'working days per year': 330, 'analyser list price (INR lakh)': 60, "share of a won account's tests moved to the new analyser": 0.6, 'rep capacity (account visits per quarter)': 120}
+
+accounts=600 total value INR 774 Cr; tier A=90 holding 22% of value
+
+== strategy comparison (60 accounts per territory, average of 300 simulated quarters)
+           strategy  accounts_worked  avg_demos  avg_quotes  avg_wins  avg_won_value_cr
+    priority score              120       79.2        47.9      23.9              39.5
+biggest labs first              120       73.3        44.3      13.9              27.7
+            random              120       75.3        45.6      16.3              21.6
+
+== top 10
+ account_id territory     type  tests_per_day      current_vendor  analyser_age_yrs  value_lakh  fit_score  priority_score
+     A0412 Delhi NCR hospital           4252              Abbott                 8       523.0       42.2           220.7
+     A0345 Delhi NCR hospital           1978 local / refurbished                 9       275.4       76.1           209.6
+     A0036 Delhi NCR hospital           2773              Abbott                11       362.0       43.2           156.4
+     A0336 Bengaluru hospital           2325               Roche                10       313.2       48.0           150.3
+     A0424 Delhi NCR hospital           1475 local / refurbished                 9       220.6       66.3           146.3
+     A0238 Bengaluru hospital           1321 local / refurbished                11       203.9       70.2           143.1
+     A0359 Delhi NCR hospital           3151 local / refurbished                 6       403.1       34.3           138.3
+     A0377 Bengaluru hospital           1816              Abbott                11       257.8       53.6           138.2
+     A0225 Delhi NCR hospital           1221              Abbott                 9       193.0       67.9           131.0
+     A0501 Delhi NCR hospital           1425              Abbott                10       215.2       59.6           128.3
